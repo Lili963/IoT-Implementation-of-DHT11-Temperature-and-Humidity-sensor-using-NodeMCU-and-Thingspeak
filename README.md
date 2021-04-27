@@ -5,13 +5,13 @@ DHT11: A sensor used to measure temperature and relative humidity in the range o
 
 NodeMCU ESP8266: It is an open-source Lua based microcontroller running on the ESP8266 WiFi SoC and a hardware based on the ESP12 module. NodeMCU is widely used for IoT projects.
 
-##Connection Diagram
+## Connection Diagram
 
 
 
 ThingSpeak: It is an IoT Analytics Platform used to analyze data collected from sensors connected over a WiFi network through any microcontroller or even a microprocessor.
 
-##Steps to use ThingSpeak:
+## Steps to use ThingSpeak:
 
 Step 1: Open and create an account.
 Step 2: Click on New Channel. Give a name to the channel with Field 1 as Temperature and Field 2 as Humidity. Save the channel.
@@ -19,7 +19,7 @@ Step 2: Click on New Channel. Give a name to the channel with Field 1 as Tempera
 Step 3: Click on API Keys and copy the Write API Key. Paste the key in the place mentioned in the code within quotes(“”).
 
 
-##Coding
+## Coding
 
 For the coding part, we will be using C Programming Language in the Arduino IDE.
 Download the DHT11 sensor library ZIP file from this link:
