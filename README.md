@@ -11,7 +11,7 @@ NodeMCU ESP8266: It is an open-source Lua based microcontroller running on the E
 
 ## Connection Diagram
 
-![Connection Digram]https://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Interfaces/NodeMCU%20DHT11/NodeMCU_DHT11_Interfacing.png)
+![Connection Digram](https://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Interfaces/NodeMCU%20DHT11/NodeMCU_DHT11_Interfacing.png)
 
 ThingSpeak: It is an IoT Analytics Platform used to analyze data collected from sensors connected over a WiFi network through any microcontroller or even a microprocessor.
 
