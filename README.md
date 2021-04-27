@@ -3,7 +3,7 @@ Implementing a Temperature and Humidity Sensor using IoT so that the data can be
 
 DHT11: A sensor used to measure temperature and relative humidity in the range of 0℃-50℃ and 20%-90% RH respectively. It has either 3 pins or 4 pins. For 3 pins, the pins are Vcc(Input), Data Pin and GND(Ground) respectively. For 4 pins, the pins are Vcc(Input), Data Pin, useless pin and GND(Ground) respectively.
 
-![DHT11 Sensor](https://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Interfaces/NodeMCU%20DHT11/DHT11.png)
+![DHT11 Sensor]https://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Interfaces/NodeMCU%20DHT11/DHT11.png
 
 NodeMCU ESP8266: It is an open-source Lua based microcontroller running on the ESP8266 WiFi SoC and a hardware based on the ESP12 module. NodeMCU is widely used for IoT projects.
 
