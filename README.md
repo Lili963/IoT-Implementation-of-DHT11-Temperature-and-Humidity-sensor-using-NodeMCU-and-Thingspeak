@@ -26,7 +26,7 @@ Step 3: Click on API Keys and copy the Write API Key. Paste the key in the place
 ## Coding
 
 For the coding part, we will be using C Programming Language in the Arduino IDE.
-Download the DHT11 sensor library ZIP file from this link:
+Download the DHT11 sensor library ZIP file from this link: https://github.com/markruys/arduino-DHT/archive/master.zip
 
 Add this library to the Arduino IDE. Make sure that there is no other DHT11 sensor library already installed and added to the Arduino IDE. If there is present, delete those and install the one from the link I have provided.
 
