@@ -2,7 +2,7 @@
 
 ## What is Python?
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fventurebeat.com%2F2021%2F02%2F19%2Fpython-pioneer-assesses-the-30-year-old-programming-language%2F&psig=AOvVaw3LJ1VpFiBiokveAViB-Xsu&ust=1631768852142000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjmo-magPMCFQAAAAAdAAAAABAP" alt = "Python Logo">
+![Logo]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fventurebeat.com%2F2021%2F02%2F19%2Fpython-pioneer-assesses-the-30-year-old-programming-language%2F&psig=AOvVaw3LJ1VpFiBiokveAViB-Xsu&ust=1631768852142000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjmo-magPMCFQAAAAAdAAAAABAP")
 Python is a high level interpreted general purpose programming language. Python is a dynamically typed programming language.It supports many programming types: Structured, Object-oriented and Functional. Python is well known for the enormous library it has.
 
 ## Inventor of Python?
